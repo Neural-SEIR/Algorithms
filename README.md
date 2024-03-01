@@ -1,3 +1,3 @@
 # Algorithms
 
-Store codes related with COVID-19 predictions, with neural-network based SEIR algorithm
+Code repository and data in article:<C-FGM:a clustering fractional-order grey model for electrical load series forecast>
